@@ -10,4 +10,8 @@ sysstat_sadc_options: '-S DISK'
 
 sysstat_compression_program: bzip2
 
+sysstat_sa2_generate_yesterday: no
+
+sysstat_sa2_generate_reports: false
+
 ...
